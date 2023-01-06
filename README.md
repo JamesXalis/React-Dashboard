@@ -13,7 +13,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![React][React.js]][React-url]
 
 
 
@@ -24,7 +24,7 @@
     <img src="public/assets/Display.jpg" alt="Logo" >
   </a>
 
-<h3 align="center">ECOMMERCE</h3>
+<h3 align="center">React Administration Dashboard</h3>
 
   <p align="center">
     An administrative dashboard for employees, site traffic, and invoices to easily handly your online business. The application consists of light and dark mode, 4 different charts, 3 different data table pages, FAQ page, form page, and calendar integration. 
@@ -72,7 +72,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src="assets/Capture" alt="Logo" width="80" height="80">
+<img src="assets/Capture.png" alt="Logo" width="80" height="80">
 
 
 This is an Admin Dashboard that was built using React, Material UI, Nivo Charts, Formik, Yup, FullCalendar, and Data Grid. This application consists of Light and Dark Mode, 4 different Charts, 3 different Data Table Pages, FAQ Page, Form Page, and Calendar Integration.
@@ -83,7 +83,7 @@ This is an Admin Dashboard that was built using React, Material UI, Nivo Charts,
 
 ### Built With
 
-* [![React][React.js]][React-url]
+* React
 * Material UI
 * Nivo Charts
 * Formik
