@@ -72,7 +72,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src="https://giphy.com/embed/Z2tTJbSnzZw702NOQq" alt="Logo">
+<iframe src="https://giphy.com/embed/Z2tTJbSnzZw702NOQq" alt="Logo">
 
 
 This is an Admin Dashboard that was built using React, Material UI, Nivo Charts, Formik, Yup, FullCalendar, and Data Grid. This application consists of Light and Dark Mode, 4 different Charts, 3 different Data Table Pages, FAQ Page, Form Page, and Calendar Integration.
