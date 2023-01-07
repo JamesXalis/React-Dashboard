@@ -21,7 +21,8 @@
 <br />
 <div align="center">
   <a href="https://jamesxalis.github.io/React-Dashboard">
-    <img src="public/assets/Display.jpg" alt="Logo" >
+    <!-- <img src="public/assets/Display.jpg" alt="Logo" > -->
+  <iframe src="https://giphy.com/embed/Z2tTJbSnzZw702NOQq" width="480" height="273" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Z2tTJbSnzZw702NOQq">logo</a></p>
   </a>
 
 <h3 align="center">React Administration Dashboard</h3>
