@@ -21,8 +21,7 @@
 <br />
 <div align="center">
   <a href="https://jamesxalis.github.io/React-Dashboard">
-    <!-- <img src="public/assets/Display.jpg" alt="Logo" > -->
-  <iframe src="https://giphy.com/embed/Z2tTJbSnzZw702NOQq" width="480" height="273" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Z2tTJbSnzZw702NOQq">logo</a></p>
+    <img src="public/assets/Display.jpg" alt="Logo" >
   </a>
 
 <h3 align="center">React Administration Dashboard</h3>
@@ -73,7 +72,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src="public/assets/Capture.PNG" alt="Logo">
+<img src="https://giphy.com/embed/Z2tTJbSnzZw702NOQq" alt="Logo">
 
 
 This is an Admin Dashboard that was built using React, Material UI, Nivo Charts, Formik, Yup, FullCalendar, and Data Grid. This application consists of Light and Dark Mode, 4 different Charts, 3 different Data Table Pages, FAQ Page, Form Page, and Calendar Integration.
